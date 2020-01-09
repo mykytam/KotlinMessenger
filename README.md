@@ -20,6 +20,8 @@ Fully functional chat messaging application for Android
 - The Recent Messages section exists to display the latest messages from it on the user's last chat screen. Information about the last message is also stored: the time the message was sent, the message text, the unique message number, the unique number of the message sender and the unique number of the message recipient.
 
 **Demo**
+
+<img scr = "demo/Screenshot_1.png" width="500" height="429">
 ![](demo/Screenshot_1.png)
 
 ![](demo/Screenshot_2.png)
