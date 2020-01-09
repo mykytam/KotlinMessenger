@@ -23,8 +23,4 @@ Fully functional chat messaging application for Android
 
 ![](demo/demos.png)
 
-![](demo/Screenshot_1.png)
-
-![](demo/Screenshot_2.png)
-
-![](demo/Screenshot_3.png)
+![](demo/demos1.png)
