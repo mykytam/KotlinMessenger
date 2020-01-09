@@ -21,7 +21,6 @@ Fully functional chat messaging application for Android
 
 **Demo**
 
-<img scr = "demo/Screenshot_1.png" width="500" height="429">
 ![](demo/Screenshot_1.png)
 
 ![](demo/Screenshot_2.png)
